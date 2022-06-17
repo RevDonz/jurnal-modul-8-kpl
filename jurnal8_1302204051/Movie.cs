@@ -1,5 +1,6 @@
 ﻿namespace jurnal8_1302204051
 {
+    //Coba komen
     public class Movie
     {
         public string Title { get; set; }
